@@ -1,0 +1,6 @@
+{
+  "name": "VibeCheck",
+  "description": "Real-time nightlife intelligence system with geofenced vibe reports and a daily reset 'Ghost Engine'. Authenticated reports only from users physically present at venues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
